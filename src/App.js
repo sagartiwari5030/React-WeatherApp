@@ -9,15 +9,15 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a href="https://sagartiwari5030.github.io/Portfolio/">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
           Sagar Tiwari
         </a>{" "}
         | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
+        <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
           HTML HINTS
         </a>
       </div>
