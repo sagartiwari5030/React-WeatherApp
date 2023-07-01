@@ -10,7 +10,7 @@ function App() {
       </div>
       <div className="footer-info">
         <a href="https://sagartiwari5030.github.io/Portfolio/">
-          Download Source Code
+          Download Source code
         </a>{" "}
         | Developed by{" "}
         <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
