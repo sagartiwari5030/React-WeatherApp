@@ -17,9 +17,9 @@ function App() {
           Sagar Tiwari
         </a>{" "}
         | Powered by{" "}
-        <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
-          HTML HINTS
-        </a>
+        // <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
+          // HTML HINTS
+        // </a>
       </div>
     </React.Fragment>
   );
