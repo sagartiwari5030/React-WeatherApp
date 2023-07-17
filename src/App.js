@@ -13,14 +13,12 @@ function App() {
           Download Source code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
+        <a target="blank" href="https://sagartiwari5030.github.io/Portfolio/">
           Sagar Tiwari
         </a>{" "}
-        | Powered by{" "}
-        // <a target="_blank" href="https://sagartiwari5030.github.io/Portfolio/">
-          // HTML HINTS
-        // </a>
-      </div>
+           </div>
+        
+     
     </React.Fragment>
   );
 }
